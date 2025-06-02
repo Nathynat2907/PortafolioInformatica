@@ -1,23 +1,26 @@
-# 💻 Proyecto: [Nombre de tu Proyecto]
+# 💻 Proyecto: Portafolio de Informática
 
-¡Bienvenido/a! Este es un proyecto desarrollado por mí, **Nathalia**, estudiante de 3ro de Informática. Utilizando mis conocimientos en programación, he creado esta aplicación con el objetivo de [explica brevemente tu objetivo, por ejemplo: "facilitar el aprendizaje de algoritmos básicos", "crear una web interactiva", etc.].
+¡Bienvenido/a! Este es un proyecto desarrollado por mí, **Nathalia**, estudiante de 3ro de Informática. Utilizando mis conocimientos en programación, he creado este repositorio con la finalidad de almacenar y compartir todos mis proyectos y actividades de informática.
 
-## 🚀 ¿De qué trata este proyecto?
+# 👩‍💻 Sobre mí
+Hola, me llamo Nathalia Mazón, tengo 18 años y actualmente curso 3ro de Informática.
+Me apasiona la tecnología, la programación y el diseño web. Me gusta aprender cosas nuevas y crear soluciones útiles a través del código.
 
-Este proyecto busca [explicación corta del propósito general]. Está construido con **Python**, **C**, **JavaScript**, además de tecnologías web como **HTML** y **CSS**.
+💡 Lenguajes y tecnologías que manejo:
 
-### 🌟 Funciones principales
+🐍 Python
 
-- ✅ Interfaz amigable y fácil de usar.
-- ⚙️ Funcionalidades programadas en múltiples lenguajes.
-- 📱 Diseño adaptable a dispositivos móviles (si aplica).
-- 📊 Muestra resultados o datos relevantes (según lo que haga tu proyecto).
-- 🔐 Seguridad básica implementada (si aplica).
+💻 C
 
-## 🧭 ¿Cómo usar el proyecto?
+🌐 JavaScript
 
-Sigue estos pasos para probar o ver el proyecto:
+🖥️ HTML y CSS
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/tu-proyecto.git
+Estoy constantemente buscando mejorar mis habilidades y participar en proyectos que me desafíen.
+
+# 📬 Contacto
+Si quieres saber más sobre mí o sobre este proyecto, puedes contactarme por:
+
+📧 Email: nathalia.mazon@uerdf.edu.ec
+
+💻 GitHub: https://github.com/Nathynat2907
